@@ -1,0 +1,14 @@
+
+body{
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+    color: white;
+}
+
+#myid{
+    font-style: italic;
+    color: tomato;
+    font-size: 70px;
+
+}
