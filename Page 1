@@ -1,0 +1,44 @@
+<html>
+
+<header>Assignment #7</header>
+  <head>
+    <style>
+       
+        body{
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+            color: rgb(133, 130, 130);
+            background-color: rgb(99, 31, 31);
+        }
+        
+        ol{
+            list-style-type: square;
+        }
+    </style>
+
+</head>
+
+    <h1 style="font-family: 'Times New Roman', Times, serif;">Favorite things to do</h1>
+    <meta keywords="Outdoor activities">
+    <ul>
+        <li>Hunting</li>
+        <li>Fishing</li>
+        <li>Hiking</li>
+        <li>Outdoor Photography</li>
+    </ul>
+    <h1 style="font-family: 'Times New Roman', Times, serif;">Favorite places to eat</h1>
+    <ol>
+        <li><a href="http://bigskygrubtruck.com" style="font-family: Georgia, 'Times New Roman', Times, serif;">Big Sky Grub Shack</a></li>
+        <li><a href="http://www.victorsteakhouse.com" style="font-family: Georgia, 'Times New Roman', Times, serif;">Victor Steak House</a></li>
+        <li><a href="http://www.romeositaliankitchen.com" style="font-family: Georgia, 'Times New Roman', Times, serif;">Romeo's Italian</a></li>
+    </ol>
+
+    <h1>Favorite websites</h1>
+    <ol>
+        <li><a href="http://www.primitiverepublic.com" target="_new">Join the Republic</a></li>
+        <li><a href="professionaloutdoormediaassociation.org" target="_new">Go to POMA</a></li>
+        <li><a href="www.buglingbull.com" target="_new">Go to Rocky Mountain Hunting Calls</a></li>
+    </ol>
+
+   <p><a href="Page 2.html" target="_new">Page 2</a></p>
+   <p><a href="Page 3.html" target="_new">Page 3</a></p>
+    </html>
